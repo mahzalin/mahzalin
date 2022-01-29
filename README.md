@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Niloofar
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Artificial Intelligence
+- 💞️ I’m looking to collaborate on Deep Learning projects
+- 📫 reach me with n.mahzali70@gmail.com
